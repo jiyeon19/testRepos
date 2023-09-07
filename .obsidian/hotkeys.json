@@ -17,13 +17,22 @@
       "key": "Z"
     }
   ],
-  "obsidian-git:backup-and-close": [
+  "obsidian-git:pull": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "X"
+      "key": "A"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }
