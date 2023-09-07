@@ -11,12 +11,8 @@
             "id": "df81ba4bd2f99bca",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "test/новая заметка.md",
-                "staged": false,
-                "hash": "d859aae13271513b784b2d42d8c242995e3da705"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -160,8 +156,26 @@
   },
   "active": "df81ba4bd2f99bca",
   "lastOpenFiles": [
-    "test/новая заметка.md",
     "test/вторая заметка.md",
+    "02.Workspace/Месяца/Август.md",
+    "02.Workspace/Месяца/Сентябрь.md",
+    "02.Workspace/Месяца/документов.md",
+    "02.Workspace/Месяца",
+    "02.Workspace/Задачи на год/плагин.md",
+    "02.Workspace/Задачи на год/2023.md",
+    "02.Workspace/Задачи на год",
+    "02.Workspace/Ежедневник/7 сентября.md",
+    "02.Workspace/Ежедневник/6 сентября.md",
+    "02.Workspace/Ежедневник/5 сентября.md",
+    "02.Workspace/Ежедневник/3 сентября.md",
+    "02.Workspace/Ежедневник/30 августа.md",
+    "02.Workspace/Ежедневник/29 августа.md",
+    "02.Workspace/Ежедневник/28 августа.md",
+    "02.Workspace/Ежедневник/26 августа.md",
+    "02.Workspace/Мысли на будущее.md",
+    "02.Workspace/Ежедневник",
+    "02.Workspace",
+    "test/новая заметка.md",
     "test"
   ]
 }
