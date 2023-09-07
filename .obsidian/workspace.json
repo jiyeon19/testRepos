@@ -11,11 +11,11 @@
             "id": "df81ba4bd2f99bca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "test/новая заметка.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "hash": "d859aae13271513b784b2d42d8c242995e3da705"
               }
             }
           }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/новая заметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/новая заметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test/новая заметка.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +158,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a798ce8b86672584",
+  "active": "df81ba4bd2f99bca",
   "lastOpenFiles": [
     "test/новая заметка.md",
     "test/вторая заметка.md",
