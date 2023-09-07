@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -136,13 +136,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "a798ce8b86672584",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +162,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "df81ba4bd2f99bca",
+  "active": "a798ce8b86672584",
   "lastOpenFiles": [
-    "test/вторая заметка.md",
     "test/новая заметка.md",
+    "test/вторая заметка.md",
     "test"
   ]
 }
