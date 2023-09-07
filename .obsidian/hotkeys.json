@@ -1,13 +1,4 @@
 {
-  "obsidian-git:open-diff-view": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "V"
-    }
-  ],
   "obsidian-git:push": [
     {
       "modifiers": [
@@ -26,13 +17,13 @@
       "key": "A"
     }
   ],
-  "obsidian-git:commit": [
+  "obsidian-git:fetch": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "D"
+      "key": "V"
     }
   ]
 }
