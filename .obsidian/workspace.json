@@ -11,8 +11,12 @@
             "id": "df81ba4bd2f99bca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02.Workspace/Ежедневник/3 сентября.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Workspace/Ежедневник/3 сентября.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.Workspace/Ежедневник/3 сентября.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02.Workspace/Ежедневник/3 сентября.md"
+              }
             }
           },
           {
@@ -138,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,6 +164,10 @@
   },
   "active": "df81ba4bd2f99bca",
   "lastOpenFiles": [
+    "02.Workspace/Мысли на будущее.md",
+    "02.Workspace/Ежедневник/3 сентября.md",
+    "02.Workspace/Ежедневник/28 августа.md",
+    "02.Workspace/Ежедневник/7 сентября.md",
     "test/вторая заметка.md",
     "02.Workspace/Месяца/Август.md",
     "02.Workspace/Месяца/Сентябрь.md",
@@ -164,15 +176,11 @@
     "02.Workspace/Задачи на год/плагин.md",
     "02.Workspace/Задачи на год/2023.md",
     "02.Workspace/Задачи на год",
-    "02.Workspace/Ежедневник/7 сентября.md",
     "02.Workspace/Ежедневник/6 сентября.md",
     "02.Workspace/Ежедневник/5 сентября.md",
-    "02.Workspace/Ежедневник/3 сентября.md",
     "02.Workspace/Ежедневник/30 августа.md",
     "02.Workspace/Ежедневник/29 августа.md",
-    "02.Workspace/Ежедневник/28 августа.md",
     "02.Workspace/Ежедневник/26 августа.md",
-    "02.Workspace/Мысли на будущее.md",
     "02.Workspace/Ежедневник",
     "02.Workspace",
     "test/новая заметка.md",
