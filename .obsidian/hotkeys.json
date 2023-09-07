@@ -1,13 +1,4 @@
 {
-  "obsidian-git:add-to-gitignore": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "X"
-    }
-  ],
   "obsidian-git:open-diff-view": [
     {
       "modifiers": [
@@ -24,6 +15,15 @@
         "Shift"
       ],
       "key": "Z"
+    }
+  ],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
     }
   ]
 }

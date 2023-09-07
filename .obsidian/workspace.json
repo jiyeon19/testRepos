@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "32d86863cff3d0a0",
+        "id": "5b74e41b19c031bb",
         "type": "tabs",
         "children": [
           {
-            "id": "69fac32256274f8c",
+            "id": "df81ba4bd2f99bca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/вторая заметка.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/вторая заметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/вторая заметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test/вторая заметка.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "69fac32256274f8c",
+  "active": "df81ba4bd2f99bca",
   "lastOpenFiles": [
     "test/вторая заметка.md",
     "test/новая заметка.md",
